@@ -1,0 +1,235 @@
+username=mm backedup the database
+username=mm backedup the database
+username=mm backedup the database
+username=wdu12 logged in to the system 
+username=mm logged in to the system 
+username=mm logged in to the system 
+username=WDU1204641 logged in to the system 
+username=mm logged in to the system 
+username=mm logged in to the system 
+username=mm logged in to the system 
+username=fawdu1202268 logged in to the system 
+username=fawdu1202268 logged in to the system 
+username=wdu1200498 logged in to the system 
+username=wdu1200498 = Requested for ICT maintenances = sdd 34 1 +251901744117 birhaneictd101 dfhhjjj Desktop Ict Directoret
+username=fawdu1202268 logged in to the system 
+username=wdu1200498 logged in to the system 
+username=fawdu1202268 logged in to the system 
+username=wdu1200498 logged in to the system 
+username=wdu12 logged in to the system 
+username=wdu12 = Requested for ICT maintenances = gdfg3 5 gfdgd +251920743743 dawitictd101 fgdg Desktop Ict Directoret
+username=wdu12 = changed request status of =286to rejected 
+username=wdu12 = changed request status of =286to rejected 
+username=wdu12 = Requested for dormitory maintenances = 121 cc +251920743743 wdu12Dormitory Directoret what
+username=wdu12 = Requested for ICT maintenances = esrtrdfhgj 5  +251920743743 dawitictd101  Desktop Ict Directoret
+username=wdu12 = Requested for ICT maintenances = green 61 sjsj +251920743743 dawitictd101 what Desktop Ict Directoret
+username=wdu12 = Requested for Construction maintenances = sjhe hhsns +251920743743 wdu12 zhbzbzn
+username=wdu12 = Requested for dormitory maintenances = dhshhh bbjn +251920743743 wdu12Dormitory Directoret dhanan
+username=wdu12 = Requested for ICT maintenances = cds fwed svd +251920743743 dawitictd101 fds Desktop Ict Directoret
+username=wdu12 = Requested for dormitory maintenances = uhh vbb +251920743743 wdu12Dormitory Directoret bbbnn
+username=fa logged in to the system 
+username=fa = Assigned technician for the request = 290  assigned technician =cwdu111917
+username=fa = Assigned technician for the request = 292  assigned technician =tecwdu1200498
+username=wdu12 = Requested for ICT maintenances = znndvv vvb b v +251920743743 dawitictd101 dvdbsb Desktop Ict Directoret
+username=wdu12 = Requested for ICT maintenances = vyg hgv vghub +251920743743 dawitictd101 vghb Desktop Ict Directoret
+username=fa = Assigned technician for the request = 295  assigned technician =tewdu1204641
+username=fa = Assigned technician for the request = 294  assigned technician =tewdu1204641
+username=fa = Assigned technician for the request = 285  assigned technician =tecwdu1200498
+username=wdu12 = Requested for ICT maintenances = yhh bbb b +251920743743 dawitictd101 hhjn Desktop Ict Directoret
+username=fa = Assigned technician for the request = 296  assigned technician =tewdu1204641
+username=wdu12 = Requested for ICT maintenances = ruru bbbnn jc ncjc +251920743743 dawitictd101 vzshsg Laptop Ict Directoret
+username=fa = Assigned technician for the request = 297  assigned technician =tewdu1204641
+username=wdu12 = Requested for ICT maintenances = ች ዝ ጸሎት +251920743743 dawitictd101 gxyd Laptop Ict Directoret
+username=fa = Assigned technician for the request = 298  assigned technician =tecwdu1200498
+username=wdu12 = Requested for ICT maintenances = gt v j +251920743743 dawitictd101 bxj Laptop Ict Directoret
+username=fa = Assigned technician for the request = 299  assigned technician =tecwdu1200498
+username=tech logged in to the system 
+username=tecwdu1200498 logged in to the system 
+username=tecwdu1200498 = Reported for the request = 299detailes= hdhdhd ictd101 299 tecwdu1200498 
+username=tecwdu1200498 = Reported for the request = 298detailes= what ictd101 298 tecwdu1200498 
+username=fa = Assigned technician for the request = 289  assigned technician =wdu111917
+username=fa = Assigned technician for the request = 288  assigned technician =tech
+username=fa = Assigned technician for the request = 294  assigned technician =tech
+username=wdu12 logged in to the system 
+username=wdu12 logged in to the system 
+username=wdu111917 logged in to the system 
+username=cwdu111917 logged in to the system 
+username=dwdu111917 logged in to the system 
+username=mm logged in to the system 
+username=wdu1200498 logged in to the system 
+username=mm backedup the database
+username=wdu1200498 = Requested for ICT maintenances = 23 23 1 +251901744117 birhaneictd101 lantop teblashtobgnal endserulgni  Laptop Ict Directoret
+username=WDU1204641 logged in to the system 
+username=mm logged in to the system 
+username=mm logged in to the system 
+username=mm  activate account of=wdu1202268 
+username=mm logged in to the system 
+username=mm  activate account of=wdu1200619
+username=fawdu1204641 logged in to the system 
+username=mm logged in to the system 
+username=mm logged in to the system 
+username=fawdu1200498 logged in to the system 
+username=wdu1202268 logged in to the system 
+username=fawdu1200498 = changed request status of =300to rejected 
+username=mm logged in to the system 
+username=fawdu1200498 = Assigned technician for the request = 299  assigned technician =tecwdu1200498
+username=wdu1200498 logged in to the system 
+username=wdu1202268 = Requested for ICT maintenances = 3 6 yuu +251955328432 Zewduictd101 yitegenlign Desktop Ict Directoret
+username=tewdu1204642 logged in to the system 
+username=fawdu111917 logged in to the system 
+username=fawdu111917 = changed its password 
+username=WDU1204641 logged in to the system 
+username=wdu12 logged in to the system 
+username=wdu1200498 = Requested for ICT maintenances = 25 24 1 +251901744117 birhaneictd101 printer siltblashbgni endserulgni  Printer Ict Directoret
+username=fawdu1202268 logged in to the system 
+username=fawdu1200498 logged in to the system 
+username=fawdu1200498 = Assigned technician for the request = 302  assigned technician =tecwdu1200498
+username=wdu1200498 logged in to the system 
+username=tecwdu1200498 logged in to the system 
+username=mm logged in to the system 
+username=WDU1204641 = Requested for ICT maintenances = 698 65 5t6 +251928371065 helariictd101 gghnmmm Printer Ict Directoret
+username=fawdu1204641 logged in to the system 
+username=wdu12 logged in to the system 
+username=fawdu1204641 logged in to the system 
+username=tecwdu1200498 = Reported for the request = 302detailes= I have finished  ictd101 302 tecwdu1200498 
+username=mm  deactivated account of=fawdu1202268
+username=fawdu1204641 = Assigned technician for the request = 303  assigned technician =wdu111917
+username=wdu1200498 logged in to the system 
+username=fawdu1204641 logged in to the system 
+username=mm logged in to the system 
+username=tecwdu1200498 logged in to the system 
+username=mm logged in to the system 
+username=WDU1204641 logged in to the system 
+username=WDU1204641 = Requested for ICT maintenances = 66 55 fhjj +251928371065 helariictd101 gghjjj Scanner Ict Directoret
+username=fawdu1204641 logged in to the system 
+username=mm logged in to the system 
+username=fawdu1204641 = Assigned technician for the request = 304  assigned technician =tewdu1204641
+username=mm  activated account of=fawdu1202268
+username=tewdu1204642 logged in to the system 
+username=fawdu1200498 logged in to the system 
+username=fawdu1200498 = Assigned technician for the request = 301  assigned technician =tecwdu1200498
+username=fawdu1202268 logged in to the system 
+username=fawdu1200498 = changed request status of =298to rejected 
+username=fawdu1204641 logged in to the system 
+username=mm  deactivated account of=tech
+username=wdu1200498 logged in to the system 
+username=mm  deactivated account of=tewdu1204642
+username=mm  activated account of=tewdu1204642
+username=tewdu1204642 logged in to the system 
+username=mm  deactivated account of=tewdu1204642
+username=wdu1200498 = Reported for the request = 300detailes= why rejected request  ictd101 300 wdu1200498 
+username=wdu12 logged in to the system 
+username=wdu12 logged in to the system 
+username=mm logged in to the system 
+username=mm changed password 
+username=mm logged in to the system 
+username=wdu12 logged in to the system 
+username=wdu12 = Requested for dormitory maintenances = hxfjfi heyeyd +251920743743 wdu12Dormitory Directoret nchc
+username=wdu12 = Requested for Construction maintenances = fusyys hdshx +251920743743 wdu12 nfxhd
+username=fawdu1202268 logged in to the system 
+username=WDU1204641 logged in to the system 
+username=WDU1204641 = Requested for ICT maintenances = 76 76 796 +251928371065 helariictd101 yiseralgni Printer Ict Directoret
+username=fawdu1202268 = Assigned technician for the request = 307  assigned technician =wdu111917
+username=wdu111917 logged in to the system 
+username=wdu111917 = Reported for the request = 307detailes= hshsdnn ictd101 307 wdu111917 
+username=WDU1204641 logged in to the system 
+username=WDU1204641 = Reported for the request = 307detailes= alalekelgnim ictd101 307 WDU1204641 
+username=fawdu1202268 = Reassigned technician for the request = 307assigned technician =wdu111917
+username=wdu111917 = Reported for the request = 307detailes= now I have finished ictd101 307 wdu111917 
+username=wdu1200498 = Requested for Construction maintenances = 23 w23 +251901744117 wdu1200498 water pump siltblashbgni endserulgni 
+username=WDU1204641 logged in to the system 
+username=WDU1204641 = Requested for ICT maintenances = 87 67 87 +251928371065 helariictd101 yiseralgni Printer Ict Directoret
+username=WDU1204641 = Requested for Construction maintenances = 23 et +251928371065 WDU1204641 wrtuju
+username=fawdu1202268 logged in to the system 
+username=fawdu1202268 = Assigned technician for the request = 309  assigned technician =wdu111917
+username=wdu111917 logged in to the system 
+username=wdu111917 = Reported for the request = 309detailes= cereshalehu ictd101 309 wdu111917 
+username=WDU1204641 logged in to the system 
+username=WDU1204641 = Reported for the request = 309detailes= alabagg ictd101 309 WDU1204641 
+username=fawdu1202268 = Reassigned technician for the request = 309assigned technician =wdu111917
+username=wdu111917 logged in to the system 
+username=facwdu1202268 logged in to the system 
+username=mm logged in to the system 
+username=mm backedup the database
+username=mm logged in to the system 
+username=mm  activate account of=wdu120
+username=wdu120 logged in to the system 
+username=wdu120 = Requested for ICT maintenances = 56 76 876 +251928371069 Mrgetachewuictd101 yiseralgni Printer Ict Directoret
+username=fawdu1202268 logged in to the system 
+username=fawdu1202268 = Assigned technician for the request = 311  assigned technician =wdu111917
+username=wdu1200498 logged in to the system 
+username=wdu1200498 = Requested for ICT maintenances = 12 24 1 +251901744117 birhaneictd101 gughhg Laptop Ict Directoret
+username=fawdu1202268 logged in to the system 
+username=wdu120 logged in to the system 
+username=wdu111917 logged in to the system 
+username=wdu120 logged in to the system 
+username=wdu120 logged in to the system 
+username=wdu120 = Requested for ICT maintenances = v12 12 hp12 +251928371069 Mrgetachewuictd101 I want to Desktop Ict Directoret
+username=mm logged in to the system 
+username=mm backedup the database
+username=mm backedup the database
+username=mm backedup the database
+username=mm logged in to the system 
+username=mm backedup the database
+username=mm backedup the database
+username=mm logged in to the system 
+username=mm backedup the database
+username=mm backedup the database
+username=mm backedup the database
+username=mm backedup the database
+username=mm restored the database
+
+username=mm restored the database
+
+username=mm restored the database
+
+username=wdu12 logged in to the system 
+username=mm backedup the database
+username=mm backedup the database
+username=mm restored the database
+
+username=mm restored the database
+
+username=mm inserted inventory data 
+username=mm inserted inventory data 
+username=mm inserted inventory data 
+username=mm inserted inventory data 
+username=mm inserted inventory data 
+username=mm inserted inventory data 
+username=mm inserted inventory data 
+username=mm inserted inventory data 
+username=mm inserted inventory data 
+username=wdu12 logged in to the system 
+username=wdu12 = Requested for ICT maintenances = g vdh  0920743743 dawitictd101  Desktop Ict Directoret
+username=wdu12 = Requested for ICT maintenances = hh b bb b 0920743743 dawitictd101  Desktop Ict Directoret
+username=wdu12 = Requested for ICT maintenances = yxyd fvg fyyd 0920743743 dawitictd101  Desktop Ict Directoret
+username=wdu12 = Requested for ICT maintenances =    0920743743 dawitictd101 hbbnbb Desktop Ict Directoret
+username=wdu12 = Requested for ICT maintenances = hdj bb 123 0920743743 dawitictd101  Desktop Ict Directoret
+username=wdu12 logged in to the system 
+username=wdu12 = Requested for ICT maintenances = thanks ed  fcc 0920743743 dawitictd101  Laptop Ict Directoret
+username=wdu12 = Requested for ICT maintenances = xff   0920743743 dawitictd101 eerr Desktop Ict Directoret
+username=wdu12 = Requested for ICT maintenances = th   0920743743 dawitictd101  Desktop Ict Directoret
+username=wdu12 = Requested for ICT maintenances = ff  ed 0920743743 dawitictd101  Desktop Ict Directoret
+username=wdu12 = Requested for ICT maintenances = sdd  qr1234 0920743743 dawitictd101  Desktop Ict Directoret
+username=fa logged in to the system 
+username=fa logged in to the system 
+username=fa = Assigned technician for the request = 272  assigned technician =tech
+username=tech logged in to the system 
+username=tech logged in to the system 
+username=fa logged in to the system 
+username=fa logged in to the system 
+username=mm logged in to the system 
+username=mm backedup the database
+username=wdu12 logged in to the system 
+username=fa logged in to the system 
+username=tech logged in to the system 
+username=fawdu1200498 logged in to the system 
+username=fawdu1202268 logged in to the system 
+username=facwdu1202268 logged in to the system 
+username=tech logged in to the system 
+username=fa logged in to the system 
+username=fa = Assigned technician for the request = 271  assigned technician =tewdu111917
+username=fa = Assigned technician for the request = 270  assigned technician =tech
+username=fa = Assigned technician for the request = 269  assigned technician =tawdu1202268
+username=tech logged in to the system 
+username=tech logged in to the system 
