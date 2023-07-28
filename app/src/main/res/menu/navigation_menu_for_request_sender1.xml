@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:tools="http://schemas.android.com/tools"
+tools:showIn="navigation_view">
+<item
+    android:title=""   android:id="@+id/empty1"/><item
+
+
+    android:title="" />
+<item android:title="Request sender">
+    <menu>
+        <item  android:id="@+id/home"  android:title="Home" android:icon="@drawable/ic_baseline_home_24" />
+        <item android:icon="@drawable/ic_baseline_send_24" android:id="@+id/requestneeds"  android:title="Request maintenance needs" />
+        <item
+
+            android:id="@+id/viewrequest10"  android:title="view requested maintenances" android:icon="@drawable/ic_baseline_email_24" />
+         <item android:icon="@drawable/ic_baseline_send_24" android:id="@+id/report"  android:title="Report maintenance need" />
+
+    </menu>
+</item>
+
+<item android:title="Setting">
+    <menu>
+        <item
+            android:icon="@drawable/ic_baseline_change_circle_24"
+            android:id="@+id/change_picture"
+            android:title="Change profile picture"/>
+        <item
+            android:icon="@drawable/ic_baseline_change_circle_24"
+            android:id="@+id/change_password"
+            android:title="Change password"/>
+        <item
+            android:icon="@drawable/ic_baseline_logout_24"
+            android:id="@+id/logout"
+            android:title="Logout" />
+    </menu>
+</item>
+
+</menu>

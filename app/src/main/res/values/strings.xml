@@ -1,0 +1,197 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">WUMRTS</string>
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+    <string name="url">http://192.168.43.228:80/wumrts/</string>
+    <string-array name="services">
+        <item>Select Ict Maintenances</item>
+        <item>Desktop Computer</item>
+        <item>Laptop</item>
+        <item>Printer</item>
+        <item>Photocopy</item>
+        <item>LCD Projector</item>
+        <item>Scanner</item>
+        <item>Network Maintenance</item>
+        <item>Other Maintenances</item>
+
+    </string-array>
+
+
+    <string-array name="maintennance_task_type_construction">
+        <item>Select Maintenance Task Type</item>
+        <item>Door</item>
+        <item>Table</item>
+        <item>Paint</item>
+        <item>Key</item>
+        <item>Light</item>
+        <item>Sockets</item>
+        <item>Electric</item>
+        <item>Water</item>
+        <item>Windows</item>
+        <item>metal Works</item>
+    </string-array>
+
+    <string-array name="maintennance_task_type_dormitory">
+        <item>Select Maintenance Task Type</item>
+        <item>Bed</item>
+        <item>Locker</item>
+        <item>Door</item>
+        <item>Table</item>
+        <item>Paint</item>
+        <item>Key</item>
+        <item>Light</item>
+        <item>Sockets</item>
+        <item>Electric</item>
+        <item>Water</item>
+        <item>Windows</item>
+        <item>metal Works</item>
+    </string-array>
+
+
+    <string name="url1">http://192.168.43.228:80/wumrts/</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string-array name="State">
+        <item>Maharashtra</item>
+        <item>Gujarat</item>
+    </string-array>
+    <string-array name="priority">
+        <item>Select priority level</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+
+
+    </string-array>
+
+    <string-array name="gender1">
+        <item>Select Gender</item>
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+    <string-array name="users">
+        <item></item>
+        <item>Admin</item>
+        <item>Facility Manager</item>
+        <item>Technician</item>
+        <item>Request Sender</item>
+    </string-array>
+    <string-array name="users2">
+        <item></item>
+        <item>Admin</item>
+        <item>Facility Manager</item>
+        <item>Technician</item>
+
+    </string-array>
+    <string-array name="users1">
+        <item>Select actor</item>
+        <item>Admin</item>
+        <item>Facility Manager</item>
+        <item>Technician</item>
+
+    </string-array>
+    <string-array name="status">
+        <item>Status</item>
+        <item>Allowed</item>
+        <item>Not Allowed</item>
+
+
+    </string-array>
+
+
+    <string-array name="facility">
+        <item>Select facility</item>
+        <item>Ict Directoret</item>
+        <item>Dormitory Directoret</item>
+        <item>Construction Directoret</item>
+
+    </string-array>
+
+    <string-array name="task_status">
+        <item>Select task status</item>
+        <item>Not Assigned</item>
+        <item>Assigned</item>
+        <item>Completed</item>
+        <item>Reassigned</item>
+        <item>Rejected</item>
+
+    </string-array>
+
+    <string-array name="task_status1">
+        <item>Select task status</item>
+
+        <item>Assigned</item>
+        <item>Completed</item>
+        <item>Reassigned</item>
+
+    </string-array>
+
+    <string-array name="report_status">
+        <item>Select report status</item>
+        <item>not seen</item>
+        <item>seen</item>
+
+
+    </string-array>
+
+    <string-array name="reassigned_status">
+        <item>Select reassigned status</item>
+        <item>Reassigned</item>
+        <item>Not Reassigned</item>
+
+
+    </string-array>
+
+    <string-array name="report_personel">
+        <item>Select reported by</item>
+        <item>Request sender</item>
+        <item>Technician</item>
+
+
+    </string-array>
+
+    <string-array name="expert_role">
+        <item>Select expert role</item>
+        <item>computer repair technician</item>
+        <item>Electrical construction technician</item>
+        <item>Water Construction</item>
+        <item>Building Construction</item>
+
+    </string-array>
+
+
+    <string-array name="department">
+        <item>Select job</item>
+        <item>Administrator office</item>
+        <item>Cafeteria</item>
+        <item>Campus police</item>
+        <item>Cleaner</item>
+        <item>Clinic worker</item>
+        <item>Communication center</item>
+        <item>Dormitory</item>
+        <item>Drivers</item>
+        <item>Electric infrastructure</item>
+        <item>Faineance worker</item>
+        <item>Gardner</item>
+        <item>Human resources</item>
+        <item>Lab technicians</item>
+        <item>Lecturer</item>
+        <item>Librarist</item>
+        <item>Proctor</item>
+        <item>Police</item>
+        <item>Registrar personnel</item>
+        <item>Student union</item>
+        <item>Teacher</item>
+
+
+    </string-array>
+
+</resources>

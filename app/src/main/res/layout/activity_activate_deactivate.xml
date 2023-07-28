@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent" android:background="#FFFDD0"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+
+
+    <androidx.drawerlayout.widget.DrawerLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:id="@+id/my_drawer_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".MainActivity"
+        tools:ignore="HardcodedText"
+        >
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentStart="true"
+                    android:layout_alignParentEnd="true"
+                    android:layout_gravity="center"
+                    android:fontFamily="cursive"
+                    android:gravity="center_horizontal"
+                    android:text="List of Clients"
+                    android:textColor="@color/black"
+                    android:textSize="40sp"
+                    android:layout_marginBottom="10dp"
+                    android:textStyle="italic"
+
+                    />
+
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp">
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentStart="true"
+                    android:layout_alignParentEnd="true"
+
+                    android:layout_marginLeft="5dp"
+
+                    android:text="Filter Results"
+                    android:textColor="@color/black"
+                    android:textSize="14dp"
+                    android:layout_marginBottom="10dp"
+
+
+                    />
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:layout_marginBottom="10dp"/>
+
+
+
+
+
+
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:layout_marginBottom="15dp">
+
+                <Spinner
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/status"/>
+            </LinearLayout>
+
+            <LinearLayout    android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" android:background="#FFFDD0"
+                android:padding="5dp"
+                >
+
+                <TextView
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
+                    android:id="@+id/txt_id"
+                    android:text="ID"
+                    android:gravity="center_vertical|center"
+                    android:textSize="20sp"
+                    android:textColor="@android:color/white"
+                    android:background="@drawable/btnblue"/>
+
+                <TextView
+                    android:id="@+id/wuid"
+                    android:inputType="none"
+                    android:layout_width="120dp"
+                    android:layout_height="wrap_content"
+                    android:backgroundTint="#B9F8F8F1"
+                    android:focusable="false"
+                    android:focusableInTouchMode="false"
+                    android:hint="User id"
+                    android:textStyle="bold"
+                    android:gravity="center"
+                    android:longClickable="false"
+                    android:clickable="false"
+
+                    android:textColor="@color/black" />
+
+                <TextView
+                    android:id="@+id/fname"
+                    android:textStyle="bold"
+                    android:inputType="none"
+                    android:layout_width="120dp"
+                    android:layout_height="wrap_content"
+                    android:backgroundTint="#B9F8F8F1"
+                    android:focusable="false"
+                    android:focusableInTouchMode="false"
+                    android:hint="Name"
+                    android:gravity="center"
+                    android:longClickable="false"
+                    android:clickable="false"
+
+                    android:textColor="@color/black" />
+
+                <TextView
+                    android:textStyle="bold"
+
+                    android:inputType="none"
+                    android:layout_width="120dp"
+                    android:layout_height="wrap_content"
+                    android:backgroundTint="#B9F8F8F1"
+                    android:focusable="false"
+                    android:focusableInTouchMode="false"
+                    android:hint="Status"
+                    android:gravity="center"
+                    android:longClickable="false"
+                    android:clickable="false"
+
+                    android:textColor="@color/black" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:orientation="horizontal"/>
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp">
+
+                <ListView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:id="@+id/myListView"/>
+            </LinearLayout>
+
+
+
+        </LinearLayout>
+
+
+
+        <com.google.android.material.navigation.NavigationView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_gravity="start"
+            android:id="@+id/nav_view"
+            android:background="#FFFDD0"
+            app:menu="@menu/navigation_menu_for_maintenance_manager"
+            >
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/b"
+                android:orientation="vertical"
+                android:layout_alignBottom="@+id/a">
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+
+                    android:background="@color/colorPrimary">
+
+
+                    <com.google.android.material.imageview.ShapeableImageView
+                        android:id="@+id/menu_image2"
+                        android:layout_width="100dp"
+                        android:layout_height="100dp"
+                        android:paddingTop="40dp"
+                        app:shapeAppearance="@style/roundedImageViewRounded"
+                        android:paddingLeft="40dp"
+                        android:layout_marginBottom="10dp"
+                        android:adjustViewBounds="true"
+                        android:scaleType="centerCrop"
+                        />
+                    <TextView
+                        android:id="@+id/navfname"
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:paddingTop="70dp"
+                        android:paddingLeft="45dp"
+                        android:layout_marginBottom="10dp"
+                        />
+                </LinearLayout>
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:layout_alignBottom="@+id/menu_image2"
+                    android:layout_marginBottom="-10dp"
+                    android:background="@android:color/black"
+                    />
+            </LinearLayout>
+
+        </com.google.android.material.navigation.NavigationView>
+
+
+
+
+
+    </androidx.drawerlayout.widget.DrawerLayout>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

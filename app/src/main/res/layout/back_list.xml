@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#FFFDD0"
+    android:padding="5dp"
+    >
+
+    <TextView
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:id="@+id/txt_id"
+        android:text="1"
+        android:gravity="center_vertical|center"
+        android:textSize="20sp"
+        android:textColor="@android:color/white"
+        android:background="@drawable/btnblue"/>
+    <TextView
+
+        android:paddingLeft="10dp"
+        android:inputType="none"
+        android:layout_width="5dp"
+        android:layout_height="wrap_content"
+         />
+    <TextView
+        android:id="@+id/name"
+android:paddingLeft="5dp"
+        android:inputType="none"
+        android:layout_width="190dp"
+        android:layout_height="wrap_content"
+        android:backgroundTint="#B9F8F8F1"
+        android:focusable="false"
+        android:focusableInTouchMode="false"
+        android:hint="User id"
+        android:gravity="center"
+        android:longClickable="false"
+        android:clickable="false"
+
+        android:textColor="@color/black" />
+
+
+    <TextView
+        android:id="@+id/date"
+
+        android:inputType="none"
+        android:layout_width="190dp"
+        android:layout_height="wrap_content"
+        android:backgroundTint="#B9F8F8F1"
+        android:focusable="false"
+        android:focusableInTouchMode="false"
+        android:hint="Device"
+        android:gravity="center"
+        android:longClickable="false"
+        android:clickable="false"
+
+        android:textColor="@color/black" />
+
+
+</LinearLayout>

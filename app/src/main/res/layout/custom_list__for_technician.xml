@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#FFFDD0"
+    android:orientation="horizontal"
+    android:padding="5dp">
+
+    <TextView
+        android:id="@+id/txt_id1"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:background="@drawable/btnblue"
+        android:gravity="center_vertical|center"
+        android:text="1"
+        android:textColor="@android:color/white"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/name1"
+
+        android:layout_width="90dp"
+        android:layout_height="wrap_content"
+        android:backgroundTint="#B9F8F8F1"
+        android:clickable="false"
+        android:focusable="false"
+        android:focusableInTouchMode="false"
+        android:gravity="center"
+        android:hint="User id"
+        android:inputType="none"
+        android:longClickable="false"
+
+        android:textColor="@color/black" />
+
+    <TextView
+        android:id="@+id/role1"
+
+        android:layout_width="90dp"
+        android:layout_height="50dp"
+        android:backgroundTint="#B9F8F8F1"
+        android:clickable="false"
+        android:focusable="false"
+        android:focusableInTouchMode="false"
+        android:gravity="center"
+        android:hint="Device"
+        android:inputType="none"
+        android:longClickable="false"
+
+        android:textColor="@color/black" />
+
+    <TextView
+        android:id="@+id/facility1"
+
+        android:layout_width="90dp"
+        android:layout_height="wrap_content"
+        android:backgroundTint="#B9F8F8F1"
+        android:clickable="false"
+        android:focusable="false"
+        android:focusableInTouchMode="false"
+        android:gravity="center"
+        android:hint="Priority"
+        android:inputType="none"
+        android:longClickable="false"
+
+        android:textColor="@color/black" />
+    <TextView
+        android:id="@+id/ongoingjobs"
+
+        android:layout_width="90dp"
+        android:layout_height="wrap_content"
+        android:backgroundTint="#B9F8F8F1"
+        android:clickable="false"
+        android:focusable="false"
+        android:focusableInTouchMode="false"
+        android:gravity="center"
+        android:hint="ongoingjobs"
+        android:inputType="none"
+        android:longClickable="false"
+
+        android:textColor="@color/black" />
+
+</LinearLayout>
